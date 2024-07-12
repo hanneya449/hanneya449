@@ -31,6 +31,5 @@ Hello! I had been working in tech company for 3 years++.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" title="gRPC" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React-Native" width="40" height="40"/>
-![Expo Icons](./icons/expo-icons.svg)
+<img src="./.github/resources//expo-react-native.png" alt="React Native Expo" width="40" height="40">
 </p>
