@@ -34,5 +34,5 @@ Hello! I had been working in tech company for 3 years++.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="swagger" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
 <img src="./.github/resources/expo-react-native.png" alt="React Native Expo" title="React Native Expo" width="40" height="40">
-<img src="./.github/resources/cloud-we-go.png" alt="CloudWeGo Hertz" title="React Native Expo" width="40" height="40">
+<img src="./.github/resources/cloud-we-go.png" alt="CloudWeGo Hertz" title="React Native Expo" width="70" height="40">
 </p>
