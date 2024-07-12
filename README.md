@@ -24,6 +24,7 @@ Hello! I had been working in tech company for 3 years++.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" title="Prometheus" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" title="Grafana" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/consul/consul-original.svg" title="Consul" width="40" height="40" />
+<img src="./.github/resources/etcd.svg" title="etcd" width="40" height="40" />
 </p>
 
 <h3>Frameworks & Tech</h3>
