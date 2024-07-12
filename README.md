@@ -4,7 +4,7 @@ Hello! I had been working in tech company for 3 years++.
 
   - Daily basis mostly in backend with Go-Lang and server administration, i only use typescript for my Frontend projects.
 
-<h2>Daily Basis ( Hover for Names )</h2>
+<h2>Daily Basis ( hover for names )</h2>
 <h3>Languages</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
@@ -32,5 +32,5 @@ Hello! I had been working in tech company for 3 years++.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" title="gRPC" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
-<img src="./.github/resources/expo-react-native.png" alt="React Native Expo" width="40" height="40">
+<img src="./.github/resources/expo-react-native.png" alt="React Native Expo" title="React Native Expo" width="40" height="40">
 </p>
