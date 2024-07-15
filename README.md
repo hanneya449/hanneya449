@@ -32,7 +32,7 @@ Hello! I had been working in tech company for 3 years++.
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
-<img src="./.github/resources/grpc.png" title="gRPC" width="50" height="50"/>
+<img src="./.github/resources/grpc.png" title="gRPC" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" title="swagger" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/>
 <img src="./.github/resources/expo-react-native.png" alt="React Native Expo" title="React Native Expo" width="40" height="40">
