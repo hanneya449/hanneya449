@@ -5,14 +5,14 @@ Hello! I had been working in tech company for 3 years++.
   - Daily basis mostly in backend with Go-Lang and server administration ( Linux ).
   - Only use Typescript for my Frontend projects.
 
-<h2>Daily Basis ( hover for names )</h2>
+<h2></h2>
 <h3>Languages</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" title="Go" width="40" height="40"/>
 </p>
 
-<h3>Infrastructure</h3>
+<h3>Infra</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"  title="NGINX" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  title="PostgreSQL" width="40" height="40" />
