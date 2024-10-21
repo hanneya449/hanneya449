@@ -1,4 +1,4 @@
-Hello! I had been working in tech company for 3 years++.
+Hello! I had been working in tech company for more than 3 years.
 
 - Daily basis mostly in backend with Go-Lang and server administration ( Linux ).
 - Only use Typescript for my Frontend projects.
