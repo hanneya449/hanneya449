@@ -1,6 +1,6 @@
 Hello! I had been working in tech company for more than 3 years.
 
-- Daily basis mostly in backend with Go-Lang and server administration ( Linux ).
+- Daily basis mostly in backend with Go-Lang , PHP and server administration ( Linux ).
 - Only use Typescript for my Frontend projects.
 
 <h2></h2>
